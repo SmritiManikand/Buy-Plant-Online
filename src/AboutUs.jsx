@@ -5,9 +5,9 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {}
-      <p className="about-us-description">Welcome to PlantPal , Your Ultimate Destination for Greenery!</p>
+      <p className="about-us-description">Welcome to Paradise Nursery , Your Ultimate Destination for Greenery!</p>
       <p className="about-us-content">
-      At PlantPal, we believe that every home and garden deserves a touch of nature. Our online store offers a diverse collection of high-quality plants and gardening supplies, from vibrant houseplants and lush indoor greenery to stunning outdoor specimens and essential gardening tools.
+      At Paradise Nursery, we believe that every home and garden deserves a touch of nature. Our online store offers a diverse collection of high-quality plants and gardening supplies, from vibrant houseplants and lush indoor greenery to stunning outdoor specimens and essential gardening tools.
       </p>
       {}
       <p className="about-us-content">
